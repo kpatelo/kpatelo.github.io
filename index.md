@@ -1,8 +1,8 @@
 # Kush Patel's Portfolio 
 
-I am a Computer Science major and I plan to graduate in 2028
+I am a Computer Science major and I plan to graduate in 2028.
 
-# Favorite CPSC 120L Labs
+## Favorite CPSC 120L Labs
 
 * Lab 7, part 1
 
